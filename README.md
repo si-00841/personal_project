@@ -1,6 +1,3 @@
-# Save the refined README content to a .md (Markdown) file
-
-readme_content = """
 # 🐾 반려동물 온라인 쇼핑몰 프로젝트
 
 **📅 기간**: 2025.03.20 ~ 2025.04.25  
@@ -134,11 +131,6 @@ readme_content = """
 
 📌 **참고**  
 기능별로 UI/UX 및 구조 개선을 지속 중이며, 향후 배포용 리팩토링 및 팀 프로젝트로 확장할 계획입니다.
-"""
 
-# Save to file
-file_path = "/mnt/data/PetShop_Project_README.md"
-with open(file_path, "w", encoding="utf-8") as file:
-    file.write(readme_content)
 
-file_path
+
