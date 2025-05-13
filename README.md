@@ -60,8 +60,9 @@
 
 <div align="center">
   <img src="./java.jpg" alt="기술 스택" />
+<p>Java, JSP, JavaScript, HTML/CSS, MySQL</p>
 </div>  
-**Java**, **JSP**, **JavaScript**, **HTML/CSS**, **MySQL**
+
 
 ---
 
